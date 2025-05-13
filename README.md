@@ -1,8 +1,8 @@
 # ASADUZZAMAN
 ## Software Engineer
 
-- [x] vipbip101@gmail.com  
-- [ ] Netrokona  
+- [x] asadcse1st@gmail.com  
+- [x] https://github.com/GitAsaduzzaman
 - [x] linkedin.com/in/ak5s  
 
 ---
@@ -17,11 +17,11 @@ GPA: 3.34*
 
 ## SKILLS
 - Mobile, Web and Desktop Applications  
-- DBMS  
-- Problem Solving  
+- MySQL,SQLite
+- Problem Solver  
 - Laravel, Django & Flutter  
-- Machine Learning  
-- Artificial Intelligence  
+- C,C++,PHP,Python 
+- Artificial Intelligence and Machine Learning  
 - Strong community builder  
 - Market Analyst  
 
@@ -33,17 +33,17 @@ GPA: 3.34*
 - Nirvoy Foundation Volunteer  
 
 ## CAREER OBJECTIVE
-Fresh graduate in Computer Science and Engineering. Successfully implemented a good number of software and hardware projects with new features, satisfying all the requirements of the end-user. Futuristic projects are my passion. Mixture of hardware and software is my core interest. Problem-solving is my happiness.
+Fresh graduate in Computer Science and Engineering. Successfully implemented a good number of software and hardware projects with new features, satisfying all the requirements of the end-user. Futuristic projects are my passion. Embeded project is my core interest. Problem-solving is my happiness.
 
 ## PROJECTS
 ### Online Study Portal
-- All in one study portal with all (12) necessary features for a student. (Django)
+- All in one study portal with all (14) necessary features for a student. (Django)
 
 ### E-Sromo Bazar
 - Local Worker finding App(Flutter)
 
 ### Jakat Calculator
-- Calculate Jakat for Muslim(Flutter)
+- Calculate Jakat for Muslims(Flutter)
 
 ### Arduino based Hardware project
 - Counting passengers and rent
