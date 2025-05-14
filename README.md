@@ -1,6 +1,6 @@
 # Asaduzzaman  
 **Software Developer & Problem Solver**  
-![Asaduzzaman](asad.jpg)  
+![Asaduzzaman](https://drive.google.com/file/d/1ohbGmP1-XmZ45MrceYxscqpdJkI7XApR/view?usp=drivesdk)  
 
 **Phone:** +8801771191720  
 **Email:** asadcse1st@gmail.com  
