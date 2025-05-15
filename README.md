@@ -1,7 +1,7 @@
 # Asaduzzaman  
-**Software Developer & Problem Solver**  
-<img src="asad%20image.jpg" alt="Asaduzzaman" width="200" height="200" style="border-radius: 50; float: right;">
 
+<img src="asad%20image.jpg" alt="Asaduzzaman" width="200" height="200" style="border-radius: 50; float: right;">
+**Software Developer & Problem Solver**  
 **Phone:** +8801771191720  
 **Email:** asadcse1st@gmail.com  
 **Location:** Mymensingh, Bangladesh  
