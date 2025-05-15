@@ -1,6 +1,6 @@
 # Asaduzzaman  
 **Software Developer & Problem Solver**  
-<img src="asad%20image.jpg" alt="Asaduzzaman" width="200" height="200">
+<img src="asad%20image.jpg" alt="Asaduzzaman" width="200" height="200" style="border-radius: 50%; float: right;">
 
 **Phone:** +8801771191720  
 **Email:** asadcse1st@gmail.com  
